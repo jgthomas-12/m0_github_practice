@@ -7,3 +7,4 @@ To check your own understanding of GitHub, answer the questions that follow.
 
 ## Shazam 
 ## Shazam 2
+## Shazam 3
