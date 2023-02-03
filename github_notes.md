@@ -6,3 +6,4 @@ To check your own understanding of GitHub, answer the questions that follow.
 1. **What is the difference between forking and cloning a repository?** Forking gets the repository linked to your computer via the cloud. Cloning makes a copy of that forked repository and puts it on your personal computer. 
 
 ## Shazam 
+## Shazam 2
