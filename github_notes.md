@@ -8,3 +8,6 @@ To check your own understanding of GitHub, answer the questions that follow.
 ## Shazam 
 ## Shazam 2
 ## Shazam 3
+## SHAZAM 4
+
+- So I first did the git remote add origin <SSH>, tried to push and got error messages about having "No upstream branch". I had to set the upstream branch using `git push -u origin main`
