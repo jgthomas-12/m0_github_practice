@@ -16,3 +16,15 @@ To check your own understanding of GitHub, answer the questions that follow.
 ## SHAZAM 4
 
 - So I first did the git remote add origin <SSH>, tried to push and got error messages about having "No upstream branch". I had to set the upstream branch using `git push -u origin main`
+
+- I received errors. I believe I need to retrieve the information before being able to edit the file some more. 
+```
+To github.com:jgthomas-12/m0_github_practice.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:jgthomas-12/m0_github_practice.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+```
